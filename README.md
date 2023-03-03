@@ -24,14 +24,6 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 
 - Follow this complete [osTicket Installation Tutorial](https://github.com/alexanderdrodriguez/osticket-prereqs)
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Configuration Steps</h2>
 
 <p>
