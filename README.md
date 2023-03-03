@@ -62,3 +62,8 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <img src="https://i.gyazo.com/f6565a4e402005c59e7bad4c2d0f08e6.png">
 <img src="https://i.gyazo.com/1e4344d2adee58c0efbceba573ba6a5b.png">
 <img src="https://i.gyazo.com/3043e340379017a50b97295719c5e7f3.png">
+<p>Step 6 Configure SLA: Go to the Admin Panel -> Click on Manage -> Select SLA -> Create three new SLAs: Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours)</p>
+<img src="https://i.gyazo.com/87f76526e23f4068d5562ca21661a9e7.png">
+<img src="https://i.gyazo.com/1db63a8638089c4c1bb6ac66c9fbb88f.png">
+<img src="https://i.gyazo.com/54c946650ec20487ff27e618b6ee61c6.png">
+<img src="https://i.gyazo.com/f50da5202fdc507ccca9474cbe1a212f.png">
