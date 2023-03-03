@@ -56,7 +56,9 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <img src="https://i.gyazo.com/5edb69d58d80ab26b0b561969a0b42af.png">
 <img src="https://i.gyazo.com/7baee2071e1622074d57263a00810323.png">
 <img src="https://i.gyazo.com/d0b06830e86e0b8b57070015757f3679.png">
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>Step 5 Configure Users (customers): Go to the Agent Panel -> Click on Users -> Select Add New -> Add two new users: Karen and Ken</p>
+<img src="https://i.gyazo.com/2759af55865ab0ce082f26435813723d.png">
+<img src="https://i.gyazo.com/b655274d917b350a2aabfeebb254d58a.png">
+<img src="https://i.gyazo.com/f6565a4e402005c59e7bad4c2d0f08e6.png">
+<img src="https://i.gyazo.com/1e4344d2adee58c0efbceba573ba6a5b.png">
+<img src="https://i.gyazo.com/3043e340379017a50b97295719c5e7f3.png">
