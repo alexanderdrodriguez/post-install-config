@@ -29,8 +29,14 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <p> Before anything headover to localhost/osTicket/scp/login.php in your VM's browser and login using the admin account you created in the osTicket Instllation tutorial.</p>
 <img src="https://i.gyazo.com/255cf2560f9907342d99cb6fb5120444.png">
 <p>Step 1 Configure Roles: Go to the Admin Panel -> Click on Agents -> Select Roles -> Create a new role called "Supreme Admin"</p>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/6656e33d64730ea9a6fbd0da26bf53b3.png">
+<img src="https://i.gyazo.com/d39fab5752b4b96ba3685215d9e64018.png">
+<img src="https://i.gyazo.com/8cbc5f6806258fb1ff239abb29c88a0e.png">
+<img src="https://i.gyazo.com/f423597ac97416b59d601cbac6d10523.png">
+<img src="https://i.gyazo.com/e967c85ed942a62d58b15465e78820b6.png">
+<img src="https://i.gyazo.com/6d870d55c1e56616297eacef1688d656.png">
+<img src="https://i.gyazo.com/faad144ad4e02df4a71b82592b1d9e7e.png">
+<img src="https://i.gyazo.com/faad144ad4e02df4a71b82592b1d9e7e.png">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
