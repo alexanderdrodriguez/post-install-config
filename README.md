@@ -67,3 +67,10 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <img src="https://i.gyazo.com/1db63a8638089c4c1bb6ac66c9fbb88f.png">
 <img src="https://i.gyazo.com/54c946650ec20487ff27e618b6ee61c6.png">
 <img src="https://i.gyazo.com/f50da5202fdc507ccca9474cbe1a212f.png">
+<p>Step 7 Configure SLA: Go to the Admin Panel -> Click on Manage -> Select Help Topics -> Create four new help topics: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset</p>
+<img src="https://i.gyazo.com/92b9bb89d43bae5ac627a99557251dbc.png">
+<img src="https://i.gyazo.com/f763b4b157693d96434e6dff5d708b1f.png">
+<img src="https://i.gyazo.com/f620abf907ad7be867f77a3c468ec5ab.png">
+<img src="https://i.gyazo.com/ecb88743d033b30da01e713f9e946833.png">
+<img src="https://i.gyazo.com/84f13f2237de52ae4a71483250cd3631.png">
+<p>That's it! You've successfully configured roles, departments, teams, users, agents, SLAs, and help topics on osTicket.</p>
