@@ -27,6 +27,7 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <h2>Configuration Steps</h2>
 
 <p>
+Here's a tutorial on how to configure roles, departments, teams, users, agents, SLAs, and help topics on osTicket:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
