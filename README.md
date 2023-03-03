@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 Here's a tutorial on how to configure roles, departments, teams, users, agents, SLAs, and help topics on osTicket:.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
