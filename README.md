@@ -27,7 +27,7 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <h2>Configuration Steps</h2>
 
 <p>
-Before anything headover to localhost/osTicket/scp/login.php and login using the admin account you created in the osTicket Instllation tutorial.
+Before anything headover to localhost/osTicket/scp/login.php in your VM's browser and login using the admin account you created in the osTicket Instllation tutorial.
 <img src="https://i.gyazo.com/255cf2560f9907342d99cb6fb5120444.png">
 Step 1 Configure Roles: Go to the Admin Panel -> Click on Agents -> Select Roles -> Create a new role called "Supreme Admin"
 
