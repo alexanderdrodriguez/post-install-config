@@ -20,6 +20,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
+<h2>List of Prerequisites</h2>
+
+- Create a Resource Group in Microsoft Azure
+- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs within the Resource Group you created
+- Follow this complete [osTicket Installation Tutorial](https://github.com/alexanderdrodriguez/osticket-prereqs)
+
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1
