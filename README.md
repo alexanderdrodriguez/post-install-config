@@ -38,17 +38,12 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <img src="https://i.gyazo.com/faad144ad4e02df4a71b82592b1d9e7e.png">
 <img src="https://i.gyazo.com/faad144ad4e02df4a71b82592b1d9e7e.png">
 </p>
-<p>Step 2 Configure Department: Go to the Admin Panel -> Click on Agents Select Departments -> Create a new department called "System Administrators"</p>
+<p>Step 2 Configure Departments: Go to the Admin Panel -> Click on Agents Select Departments -> Create a new department called "System Administrators"</p>
 <img src="https://i.gyazo.com/7b4b44020cbc81500ed1c0261ea6b689.png">
 <img src="https://i.gyazo.com/6e532b249875465a2e16e1e127890457.png">
 <img src="https://i.gyazo.com/0782861e19987802fd07c386df246b94.png">
 <img src="https://i.gyazo.com/93d01bcb04f16589fe562e0415fef781.png">
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<p>Step 3 Configure Teams: Go to the Admin Panel -> Click on Agents -> Select Teams -> Create two new teams: "Level I Support" and "Level II Support"</p>
 <br />
 
 <p>
