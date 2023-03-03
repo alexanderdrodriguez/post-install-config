@@ -47,9 +47,15 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 <img src="https://i.gyazo.com/c64f23ca04731351c39db7218a6ad469.png">
 <img src="https://i.gyazo.com/b5a20fef5a1fe7fe4d4b0ec1ebc15f73.png">
 <img src="https://i.gyazo.com/107fe7744149636005fe44a51ddecb9b.png">
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<p>Step 4 Configure Agents (workers): Go to the Admin Panel -> Click on Agents -> Select Add New -> Add two new agents: Jane and John</p>
+<img src="https://i.gyazo.com/86db9259e8d109a2c0e9dcc854345d8c.png">
+<img src="https://i.gyazo.com/a2edc751e893ea1d96dc064eeceec8cd.png">
+<img src="https://i.gyazo.com/b3223f6647282b6328edbba31806b506.png">
+<img src="https://i.gyazo.com/a6f26ad2b37fc941b0f6f4fa7d64d0d5.png">
+<img src="https://i.gyazo.com/f3bce5178ca7c7718c3a37aecfb37572.png">
+<img src="https://i.gyazo.com/5edb69d58d80ab26b0b561969a0b42af.png">
+<img src="https://i.gyazo.com/7baee2071e1622074d57263a00810323.png">
+<img src="https://i.gyazo.com/d0b06830e86e0b8b57070015757f3679.png">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
