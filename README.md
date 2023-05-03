@@ -7,7 +7,7 @@ Here's a tutorial on how to configure roles, departments, teams, users, agents, 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket with Microsoft Azure Part 2: Post-Install Configuration (Roles, deparments, SLAs, etc](https://youtu.be/Skud9OEovqw)
+- ### [YouTube: How To Configure osTicket with Microsoft Azure Part 2: Post-Install Configuration (Roles, Departments, SLAs, and More)](https://youtu.be/Skud9OEovqw)
 
 <h2>Environments and Technologies Used</h2>
 
